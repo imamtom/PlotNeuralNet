@@ -38,7 +38,7 @@ Base on this [website](https://gist.github.com/rain1024/98dd5e2c6c8c28f9ea9d), p
     1. Download and install [MikTeX](https://miktex.org/download).
     2. Download and install bash runner on Windows, recommends [Git bash](https://git-scm.com/download/win) or Cygwin(https://www.cygwin.com/)
 
-2. Execute the example as followed.
+2. Execute the example as followed. ==这里不要带`.py`==
     ```
     cd pyexamples/
     bash ../tikzmake.sh test_simple
